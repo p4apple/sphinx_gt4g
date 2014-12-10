@@ -1,0 +1,1 @@
+D:\Work\project_wangxin\sphinx-2.2.5-release\bin\Debug\searchd.exe -c D:\Work\temp\se_225_data\sphinx.conf --stop 
